@@ -1,7 +1,1 @@
-<<<<<<< HEAD
-database_url=localhost
-api_key=updated_key_789
-=======
-database_url=localhost
-api_key=updated_key_789
->>>>>>> feature/update-api-key
+database=prod.db
