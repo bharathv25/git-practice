@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 database=prod.db
+=======
+database=prod.db
+>>>>>>> branch-b
