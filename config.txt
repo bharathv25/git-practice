@@ -1,2 +1,1 @@
-database_url=localhost
-hii hello
+database_url=prod.db
